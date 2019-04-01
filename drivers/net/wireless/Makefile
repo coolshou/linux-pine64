@@ -29,7 +29,7 @@ obj-$(CONFIG_RTL8723BS) 	+= rtl8723bs/
 obj-$(CONFIG_RTL8723BS_VQ0) 	+= rtl8723bs_vq0/
 obj-$(CONFIG_RTL8723CS) 	+= rtl8723cs/
 obj-$(CONFIG_RTL8189FS) 	+= rtl8189fs/
-obj-$(CONFIG_RTL8812AU) 	+= rtl8812au/driver/"
+obj-$(CONFIG_RTL8812AU) 	+= rtl8812au/driver/
 
 # 16-bit wireless PCMCIA client drivers
 obj-$(CONFIG_PCMCIA_RAYCS)	+= ray_cs.o
