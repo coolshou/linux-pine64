@@ -290,5 +290,5 @@ source "drivers/net/wireless/rtl8723bs/Kconfig"
 source "drivers/net/wireless/rtl8723bs_vq0/Kconfig"
 source "drivers/net/wireless/rtl8723cs/Kconfig"
 source "drivers/net/wireless/rtl8189fs/Kconfig"
-source "drivers/net/wireless/rtl8812au/driver/Kconfig"
+source "drivers/net/wireless/rtl8812au/Kconfig"
 endif # WLAN
