@@ -174,4 +174,6 @@ source "drivers/reset/Kconfig"
 
 source "drivers/gator/Kconfig"
 
+source "drivers/soc/Kconfig"
+
 endmenu

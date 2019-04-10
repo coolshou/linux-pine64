@@ -1,4 +1,6 @@
 #
+# Allwinner sunXi SoC drivers
+#
 config SUNXI_SRAM
 	bool "Allwinner SOC SRAM controlloer"
 	default ARCH_SUNXI
